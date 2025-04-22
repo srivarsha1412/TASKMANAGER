@@ -1,0 +1,19 @@
+when "uvicorn app.main:app --reload" is executed , uvicorn server will run on "http://127.0.0.1:8000" 
+
+reload option tells Uvicorn to automatically restart the server whenever it detects changes in your code files
+
+Navigating to the "http://127.0.0.1:8000/tasks"  
+
+
+Navigating to the "http://127.0.0.1:8000/docs"    
+
+
+
+Tasks data stored in MongoDB 
+
+
+
+
+
+
+
